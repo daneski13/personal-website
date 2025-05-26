@@ -45,7 +45,7 @@
 
 			<div class="about__blurb">
 				<p>
-					I am an analyst in the financial services industry by trade and a hobbyist
+					I am a BI analyst in the financial services industry by trade and a hobbyist
 					developer/engineer. I grew up near Seattle, Washington and now live in Dallas, Texas. I
 					graduated from Washington State University in 2024, majoring in both Finance and
 					Management Information Systems. I pride myself on autodidactism, with interests in data
@@ -92,7 +92,8 @@
 	.hero {
 		position: relative;
 		min-height: calc(100vh - var(--header-height));
-		background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+		background:
+			linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
 			linear-gradient(-45deg, var(--primary-color), #6688ff, #66ffdd);
 		background-size: 400% 400%;
 		animation: gradient 10s ease infinite;
